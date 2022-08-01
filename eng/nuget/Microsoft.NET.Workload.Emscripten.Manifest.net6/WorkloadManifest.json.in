@@ -7,7 +7,7 @@
       "packs": [
         "Microsoft.NET.Runtime.Emscripten.Node.net6",
         "Microsoft.NET.Runtime.Emscripten.Python.net6",
-        "Microsoft.NET.Runtime.Emscripten.Sdk.net"
+        "Microsoft.NET.Runtime.Emscripten.Sdk.net6"
       ],
       "platforms": [ "win-x64", "linux-x64", "osx-x64", "osx-arm64" ]
     }
