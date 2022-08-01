@@ -6,6 +6,8 @@
     <PreReleaseVersionIteration>1</PreReleaseVersionIteration>
     <WorkloadSdkBandVersion>7.0.100</WorkloadSdkBandVersion>
     <EmscriptenVersion>3.1.12</EmscriptenVersion>
+    <EmscriptenVersionNet6>2.1.13</EmscriptenVersionNet6>
+    <PackageVersionNet6>6.0.8</PackageVersionNet6>
   </PropertyGroup>
   <PropertyGroup>
     <MicrosoftDotNetBuildTasksPackagingVersion>7.0.0-beta.22372.1</MicrosoftDotNetBuildTasksPackagingVersion>
