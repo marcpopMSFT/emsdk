@@ -14,7 +14,7 @@
   },
   "packs": {
     "Microsoft.NET.Runtime.Emscripten.Node.net6" : {
-      "version": "${PacakgeVersionNet6}",
+      "version": "${PackageVersionNet6}",
       "alias-to": {
         "win-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Node.win-x64",
         "linux-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Node.linux-x64",
@@ -24,7 +24,7 @@
     },
     "Microsoft.NET.Runtime.Emscripten.Python.net6" : {
       "kind": "Sdk",
-      "version": "${PacakgeVersionNet6}",
+      "version": "${PackageVersionNet6}",
       "alias-to": {
         "win-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Python.win-x64",
         "osx-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Python.osx-x64",
@@ -33,7 +33,7 @@
     },
     "Microsoft.NET.Runtime.Emscripten.Sdk.net6" : {
       "kind": "Sdk",
-      "version": "${PacakgeVersionNet6}",
+      "version": "${PackageVersionNet6}",
       "alias-to": {
         "win-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Sdk.win-x64",
         "linux-x64": "Microsoft.NET.Runtime.Emscripten.${EmscriptenVersionNet6}.Sdk.linux-x64",
